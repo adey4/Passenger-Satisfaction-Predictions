@@ -1,5 +1,5 @@
 # Employee-Satisfaction-Predictions
-## Predicts employee satisfaction probability based on personal information.
+## Predict employee satisfaction based on personal/HR information
 
 **Author**: Ankit Dey
 
