@@ -3,7 +3,7 @@
 
 **Author**: Ankit Dey
 
-### Business Problem:
+### About:
 The purpose of this project was to predict passenger satisfaction using personal information from corporate airline data. Company leadership can then use this model to improve passenger satisfaction by identifying key changes in company procedures that will have the largest influence on increasing passenger satisfaction.
 
 ### Data:
@@ -18,6 +18,14 @@ Data was sourced from a corporate partner of Coding Dojo. The dataset contains 2
 - Model evaluation based on regression metrics 
 
 ### Model Evaluation:
+#### Metrics
+<img src="https://github.com/adey4/Employee-Satisfaction-Predictions/blob/main/loss.png" width=500 height=333>
+<img src="https://github.com/adey4/Employee-Satisfaction-Predictions/blob/main/accuracy.png" width=500 height=333>
+<img src="https://github.com/adey4/Employee-Satisfaction-Predictions/blob/main/recall.png" width=500 height=333>
+<img src="https://github.com/adey4/Employee-Satisfaction-Predictions/blob/main/precision.png" width=500 height=333>
+
+#### Confusion Matrix
+<img src="https://github.com/adey4/Employee-Satisfaction-Predictions/blob/main/cfmat.png" width=450 height=333>
 The final model is an ANN containing two hidden layers with ReLu activation.
 
 This model shows an accuracy of 97%, precision of 98%, recall of 95%, and f1-score of 96%. It accurately predicts satisfaction for 97% of employees with a similar amount of false negative and false positive errors.
