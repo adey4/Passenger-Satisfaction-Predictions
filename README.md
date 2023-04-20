@@ -12,7 +12,8 @@ Data was sourced from a corporate partner of Coding Dojo. The dataset contains 2
 ### Methods used:
 - Data mining
 - Data cleaning and processing
-- Exploratory analyses of the dataset
+  - PCA
+- Exploratory analyses
 - ANN model built using TensorFlow and Keras
 - Model evaluation based on regression metrics 
 
