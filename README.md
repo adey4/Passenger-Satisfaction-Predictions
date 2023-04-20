@@ -4,7 +4,7 @@
 **Author**: Ankit Dey
 
 ### About:
-The purpose of this project was to predict passenger satisfaction using personal information from corporate airline data. Company leadership can then use this model to improve passenger satisfaction by identifying key changes in company procedures that will have the largest influence on increasing passenger satisfaction.
+The purpose of this project was to predict passenger satisfaction using personal information from corporate airline data. Company leadership can then use this model to improve passenger satisfaction through the identification of key changes in company procedures that will have the largest influence on increasing passenger satisfaction.
 
 ### Data:
 Data was sourced from a corporate partner of Coding Dojo. The dataset contains 22 features related to employee personal information and 20000 observations.
