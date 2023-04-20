@@ -15,7 +15,7 @@ Data was sourced from a corporate partner of Coding Dojo. The dataset contains 2
   - PCA
 - Exploratory analyses
 - ANN model built using TensorFlow and Keras
-- Model evaluation based on regression metrics 
+- Model evaluation based on classification metrics 
 
 ### Model Evaluation:
 #### Metrics
@@ -26,9 +26,10 @@ Data was sourced from a corporate partner of Coding Dojo. The dataset contains 2
 
 #### Confusion Matrix
 <img src="https://github.com/adey4/Employee-Satisfaction-Predictions/blob/main/cfmat.png" width=450 height=333>
+
 The final model is an ANN containing two hidden layers with ReLu activation.
 
-This model shows an accuracy of 97%, precision of 98%, recall of 95%, and f1-score of 96%. It accurately predicts satisfaction for 97% of employees with a similar amount of false negative and false positive errors.
+This model shows an accuracy of 97%, precision of 98%, recall of 95%, and f1-score of 96%, accurately predicting satisfaction for 97% of employees with a similar amount of false negative and false positive errors (ROC AUC Score = 0.99).
 
 ### Limitations and Next Steps
 Although the model performs very well at predicting employee satisfaction, as an ANN it is not very transparent - this makes it difficult to extract the key pieces of personal information that showed the greatest effect on satisfaction. A simpler model, such as a decision tree, may be helpful to determine which changes are most important to improving passenger satisfaction.
