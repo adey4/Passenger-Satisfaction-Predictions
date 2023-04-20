@@ -1,5 +1,5 @@
 # Passenger-Satisfaction-Predictions
-## Predict passenger satisfaction based on company surveys
+## Predict passenger satisfaction based on airline company surveys
 
 **Author**: Ankit Dey
 
