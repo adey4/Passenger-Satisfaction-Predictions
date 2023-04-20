@@ -1,10 +1,10 @@
-# Employee-Satisfaction-Predictions
-## Predict employee satisfaction based on personal/HR information
+# Passenger-Satisfaction-Predictions
+## Predict passenger satisfaction based on personal/HR information
 
 **Author**: Ankit Dey
 
 ### About:
-The purpose of this project was to predict passenger satisfaction using personal information from corporate airline data. Company leadership can then use this model to improve passenger satisfaction through the identification of key changes in company procedures that will have the largest influence on increasing passenger satisfaction.
+The purpose of this project was to predict passenger satisfaction using personal information from corporate airline data. Company leadership can then use this model to improve passenger satisfaction through the identification of key factors in company procedures that will have the largest influence on increasing passenger satisfaction.
 
 ### Data:
 Data was sourced from a corporate partner of Coding Dojo. The dataset contains 22 features related to employee personal information and 20000 observations.
