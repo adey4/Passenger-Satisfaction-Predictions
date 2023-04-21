@@ -19,7 +19,7 @@ Data was sourced from a corporate partner of Coding Dojo. The dataset contains 2
 
 ### Model Evaluation:
 #### Metrics
-<img src="https://github.com/adey4/Employee-Satisfaction-Predictions/blob/main/loss.png" width=600 height=333>
+<img src="https://github.com/adey4/Employee-Satisfaction-Predictions/blob/main/loss.png" width=75% height=50%>
 <img src="https://github.com/adey4/Employee-Satisfaction-Predictions/blob/main/accuracy.png" width=500 height=333>
 <img src="https://github.com/adey4/Employee-Satisfaction-Predictions/blob/main/recall.png" width=500 height=333>
 <img src="https://github.com/adey4/Employee-Satisfaction-Predictions/blob/main/precision.png" width=500 height=333>
